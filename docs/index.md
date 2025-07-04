@@ -101,3 +101,13 @@ This will build your site and serve it on a local server (usually http://localho
 
 By following these steps, you can effectively integrate W3.CSS into your Jekyll GitHub Pages site to enhance its styling and responsiveness.
 
+<div class="w3-container w3-teal">
+  <h1>Welcome to My Blog!</h1>
+  <p>This is a W3.CSS container with a teal background.</p>
+</div>
+
+<button class="w3-button w3-red w3-round-large">Click Me!</button>
+
+<div class="w3-panel w3-yellow w3-card-4">
+  <p>This is a W3.CSS panel with a yellow background and a shadow.</p>
+</div>
