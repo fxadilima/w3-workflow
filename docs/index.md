@@ -1,7 +1,9 @@
 ---
-layout: default
+layout: general
 title: W3.CSS Workflow for Jekyll GitHub Pages
 ---
+
+# W3.CSS Workflow for Jekyll GitHub Pages
 
 Here's a step-by-step workflow:
 
