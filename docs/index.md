@@ -1,5 +1,5 @@
 ---
-layout: general
+layout: default
 title: W3.CSS Workflow for Jekyll GitHub Pages
 ---
 
