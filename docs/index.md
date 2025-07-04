@@ -41,6 +41,8 @@ my-jekyll-blog/
 4. Use W3.CSS Classes in Your Content
 Now you can start using W3.CSS classes in your Jekyll posts and pages!
 
+<a name="example-1" id="example-1"></a>
+
 For example, in a _posts/2025-07-04-my-post.md file or an about.md page:
 
 ```markdown
@@ -54,12 +56,15 @@ title: My Awesome Post with W3.CSS
   <p>This is a W3.CSS container with a teal background.</p>
 </div>
 
-<button class="w3-button w3-red w3-round-large">Click Me!</button>
+<a class="w3-button w3-red w3-round-large" href="#example-1">Click Me!</a>
 
 <div class="w3-panel w3-yellow w3-card-4">
   <p>This is a W3.CSS panel with a yellow background and a shadow.</p>
 </div>
 ```
+
+If the [following result](#testing) has **Red Button**, then the above code works.
+
 
 5. Local Testing
   Before pushing to GitHub Pages, it's always a good idea to test your changes locally. Navigate to your Jekyll project's root directory in your terminal and run:
@@ -101,12 +106,16 @@ This will build your site and serve it on a local server (usually http://localho
 
 By following these steps, you can effectively integrate W3.CSS into your Jekyll GitHub Pages site to enhance its styling and responsiveness.
 
+---
+
+### Testing
+
 <div class="w3-container w3-teal">
   <h1>Welcome to My Blog!</h1>
   <p>This is a W3.CSS container with a teal background.</p>
 </div>
 
-<button class="w3-button w3-red w3-round-large">Click Me!</button>
+<a class="w3-button w3-red w3-round-large" href="#example-1">Click Me!</a>
 
 <div class="w3-panel w3-yellow w3-card-4">
   <p>This is a W3.CSS panel with a yellow background and a shadow.</p>

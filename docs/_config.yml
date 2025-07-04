@@ -14,3 +14,10 @@ description: >
 plugins:
   - jekyll-seo-tag
 
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  # Optional: For better compatibility with Rouge and if you use highlight blocks often
+  # syntax_highlighter_opts:
+  #   default_lang: plaintext # Fallback language if not specified
+
