@@ -3,7 +3,7 @@ layout: default
 title: W3.CSS Workflow for Jekyll GitHub Pages
 ---
 
-# W3.CSS Workflow for Jekyll GitHub Pages
+# <i class="fa fa-home"></i> W3.CSS Workflow for Jekyll GitHub Pages
 
 Here's a step-by-step workflow:
 
@@ -108,7 +108,8 @@ By following these steps, you can effectively integrate W3.CSS into your Jekyll 
 
 ---
 
-### Testing
+<a name="testing" id="testing"></a>
+### <i class="fa fa-link"></i> Testing
 
 <div class="w3-container w3-teal">
   <h1>Welcome to My Blog!</h1>
