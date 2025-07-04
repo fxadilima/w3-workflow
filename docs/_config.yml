@@ -1,0 +1,16 @@
+
+url: "https://fxadilima.github.io"
+baseurl: "/w3-workflow"
+
+title: W3.CSS Workflow for Jekyll GitHub Pages
+author:
+  name: FX. Adi Lima
+  email: xaverius20177598@gmail.com
+
+description: >
+  Membuat workflow sederhana untuk menampilkan isi dokumen github-pages di website.
+  Hanya mengandalkan w3.css, tidak memakai theme.
+
+plugins:
+  - jekyll-seo-tag
+
